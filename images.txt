@@ -4,3 +4,4 @@ xhofe/alist:latest
 rustdesk/rustdesk-server:latest
 developer024/networkdownload
 --platform=linux/arm64 xiaoyaliu/alist
+rclone/rclone
